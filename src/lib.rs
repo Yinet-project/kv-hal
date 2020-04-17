@@ -1,3 +1,2 @@
-mod kv;
+pub mod kv;
 
-pub use kv::Storage;
